@@ -1,1 +1,1 @@
-I'm a software engineer at NASA and a machine learning engineer.  My background is in full-stack software engineering and in productionizing ML.  I'm interested in building products for space that integrate hardware and software, as well as in applying AI to IoT/Edge devices, sensors, and robotics.  
+I'm a software engineer at NASA and a machine learning engineer.  I'm interested in integrating software with sensor hardware and robotics, deploying inference services on edge devices, computer vision, multi-modal LLM interfaces, and time series data.  
